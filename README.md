@@ -4,4 +4,4 @@
 
 ## Módulo 1: HTML
 
-* [Clase 1](./content/20260209/index.html)
+* [Clase 1: Conociendo a HTML](./content/module_01/class_01/index.html)
