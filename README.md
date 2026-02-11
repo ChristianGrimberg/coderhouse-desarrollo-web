@@ -4,4 +4,4 @@
 
 ## Módulo 1: HTML
 
-* [Clase 1](./content/01_Clase.ipynb)
+* [Clase 1](./content/20260209/index.html)
