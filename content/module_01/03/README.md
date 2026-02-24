@@ -1,4 +1,4 @@
-# Etiquetas y atributos comunes
+# Contenido y enlaces
 
 ## Uso de enlaces con la etiqueta `<a>`
 
@@ -10,7 +10,7 @@ Ejemplo básico:
 
 ```html
 <a href="https://www.ejemplo.com">Visita Ejemplo</a>
-````
+```
 
 Este código crea un enlace que, al hacer clic, lleva al usuario a "[https://www.ejemplo.com](https://www.ejemplo.com)".
 
@@ -28,7 +28,7 @@ Ejemplo:
 
 ```html
 <img src="imagenes/logo.png" alt="Logo de la empresa">
-````
+```
 
 > __Importante__: Siempre incluye el atributo `alt` para que personas con discapacidad visual o navegadores que no cargan imágenes puedan entender el contenido.
 
