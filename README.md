@@ -2,6 +2,8 @@
 
 > Comisión 79380
 
+[Sitio web del proyecto](https://christiangrimberg.github.io/coderhouse-desarrollo-web/)
+
 ## Temas vistos en clase
 
 * [Clase 1: Conociendo a HTML](./content/class_01/index.html)
