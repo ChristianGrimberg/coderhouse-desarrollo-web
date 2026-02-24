@@ -6,9 +6,11 @@
 
 ## Temas vistos en clase
 
-* [Módulo 1](./content/module_01/)
-  * [Práctica en Clase 1: Conociendo a HTML](./content/class_01/home.html)
+* Módulo 1: HTML
+  * [¿Qué es HTML?](./content/module_01/01/)
+  * [Elementos estructurales y jerarquía en HTML](./content/module_01/02/)
+  * [Práctica de Clase 1](./content/module_01/course/)
 * [Módulo 2](./content/module_02/)
-  * [Práctica en Clase 2: Conociendo CSS](./content/class_02/home.html)
+  * [Práctica de Clase 2](./content/module_02/course/)
     * [MTZNEWS DEMO](https://www.figma.com/design/IMqfnELzskVdPQH2rXGLWu/MTZNEWS-DEMO?node-id=0-1&p=f&t=HXD07hkFoeJ4J2dL-0)
     * [Google Fonts: Poppins Font](https://fonts.google.com/specimen/Poppins?query=poppins)
