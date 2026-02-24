@@ -1,0 +1,42 @@
+* {
+    font-family: Poppins, sans-serif;
+}
+
+/* Header */
+.index-header {
+    /*background-image: url("../images/");*/
+    background-color: rgb(43, 125, 226);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.index-header-h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.index-header-h3 {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.index-header-p {
+    font-size: 14px;
+}
+
+.index-header-h3 span {
+    color: #ffcc00;
+}
+
+.index-header-h2,
+.index-header-h3,
+.index-header-p {
+    color: #ffffff;
+}
+
+.index-header-h2, .index-header-p {
+    text-align: center;
+}
+
+/* Main */
