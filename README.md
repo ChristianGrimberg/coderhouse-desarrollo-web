@@ -5,3 +5,4 @@
 ## Módulo 1: HTML
 
 * [Clase 1: Conociendo a HTML](./content/module_01/class_01/index.html)
+* [Clase 2:](./content/module_01/class_02/index.html)
