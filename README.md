@@ -11,6 +11,7 @@
   * [Elementos estructurales y jerarquía en HTML](./content/module_01/02/)
   * [Contenido y enlaces](./content/module_01/03/)
   * [Listas, tablas y formularios](./content/module_01/04/)
+  * [Validación y accesibilidad básica en HTML](./content/module_01/05/)
   * [Práctica de Clase 1](./content/module_01/course/)
 * Módulo 2: CSS
   * [](./content/module_02/)
