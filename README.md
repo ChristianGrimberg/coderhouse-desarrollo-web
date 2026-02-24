@@ -2,8 +2,9 @@
 
 > Comisión 79380
 
-## Módulo 1: HTML
+## Temas vistos en clase
 
-* [Clase 1: Conociendo a HTML](./content/module_01/index.html)
-* [Clase 2: Práctica CSS](./content/module_02/index.html)
-  * [Recursos: MTZNEWS DEMO](https://www.figma.com/design/IMqfnELzskVdPQH2rXGLWu/MTZNEWS-DEMO?node-id=0-1&p=f&t=HXD07hkFoeJ4J2dL-0)
+* [Clase 1: Conociendo a HTML](./content/class_01/index.html)
+* [Clase 2: Práctica CSS](./content/class_02/index.html)
+  * [MTZNEWS DEMO](https://www.figma.com/design/IMqfnELzskVdPQH2rXGLWu/MTZNEWS-DEMO?node-id=0-1&p=f&t=HXD07hkFoeJ4J2dL-0)
+  * [Google Fonts: Poppins Font](https://fonts.google.com/specimen/Poppins?query=poppins)
