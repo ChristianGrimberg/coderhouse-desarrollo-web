@@ -4,8 +4,8 @@
 
 /* Header */
 .index-header {
-    /*background-image: url("../images/");*/
-    background-color: rgb(43, 125, 226);
+    background-image: url("../images/index-header.jpg");
+    /*background-color: rgb(43, 125, 226);*/
     height: 90vh;
     background-repeat: no-repeat;
     background-position: center;
