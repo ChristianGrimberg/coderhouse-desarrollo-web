@@ -1,10 +1,8 @@
-# Curso de Desarrollo Web Flex en Coderhouse
-
-> Comisión 79380
+# Curso de Desarrollo Web Flex en Coderhouse de la comisión 79380
 
 [Sitio web del proyecto](https://christiangrimberg.github.io/coderhouse-desarrollo-web/)
 
-## Temas vistos en clase
+## Módulos y prácticas en clase
 
 * Módulo 1: HTML
   * [¿Qué es HTML?](./content/module_01/01/)
