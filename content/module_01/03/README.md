@@ -1,3 +1,5 @@
+# Etiquetas y atributos comunes
+
 ## Uso de enlaces con la etiqueta `<a>`
 
 La etiqueta `<a>` (de "anchor" o ancla) se utiliza para crear __enlaces__ que permiten navegar de una página a otra o a una sección específica dentro de una misma página.

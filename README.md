@@ -9,6 +9,7 @@
 * Módulo 1: HTML
   * [¿Qué es HTML?](./content/module_01/01/)
   * [Elementos estructurales y jerarquía en HTML](./content/module_01/02/)
+  * [Etiquetas y atributos comunes](./content/module_01/03/)
   * [Práctica de Clase 1](./content/module_01/course/)
 * Módulo 2: CSS
   * [](./content/module_02/)
