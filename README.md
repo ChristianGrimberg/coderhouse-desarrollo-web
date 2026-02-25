@@ -12,7 +12,7 @@
   * [Validación y accesibilidad básica en HTML](./content/module_01/05/)
   * [Práctica de Clase 1](./content/module_01/course/)
 * Módulo 2: CSS
-  * [](./content/module_02/)
+  * [¿Qué es CSS y cómo se vincula a HTML?](./content/module_02/01)
   * [Práctica de Clase 2](./content/module_02/course/)
-    * [MTZNEWS DEMO](https://www.figma.com/design/IMqfnELzskVdPQH2rXGLWu/MTZNEWS-DEMO?node-id=0-1&p=f&t=HXD07hkFoeJ4J2dL-0)
-    * [Google Fonts: Poppins Font](https://fonts.google.com/specimen/Poppins?query=poppins)
+    * [Modelo en Figma: MTZNEWS DEMO](https://www.figma.com/design/IMqfnELzskVdPQH2rXGLWu/MTZNEWS-DEMO?node-id=0-1&p=f&t=HXD07hkFoeJ4J2dL-0)
+    * [Fuente Poppins en Google Fonts](https://fonts.google.com/specimen/Poppins?query=poppins)
