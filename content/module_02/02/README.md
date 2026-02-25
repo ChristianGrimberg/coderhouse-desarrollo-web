@@ -28,8 +28,8 @@ Los IDs deben usarse solo cuando realmente se necesite algo único. En el desarr
 
 Cuando múltiples reglas CSS apuntan al mismo elemento, el navegador sigue estas reglas para decidir cuál aplicar:
 
-1. __Importancia__: reglas con `!important` tienen prioridad máxima (pero su uso debe evitarse).
-2. __Especificidad__: se calcula según el tipo de selector:
+* __Importancia__: reglas con `!important` tienen prioridad máxima (pero su uso debe evitarse).
+* __Especificidad__: se calcula según el tipo de selector:
 
   | Selector                                | Puntos de especificidad |
   | --------------------------------------- | ----------------------- |
@@ -40,7 +40,7 @@ Cuando múltiples reglas CSS apuntan al mismo elemento, el navegador sigue estas
 
   > __Regla práctica__: suma los puntos de cada selector; gana el que tenga mayor puntaje.
 
-3. __Orden de aparición__: si la especificidad es igual, gana la regla que aparece después en el CSS.
+* __Orden de aparición__: si la especificidad es igual, gana la regla que aparece después en el CSS.
 
 ## Herencia
 
