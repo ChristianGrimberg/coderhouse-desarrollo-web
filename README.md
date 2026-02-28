@@ -21,3 +21,4 @@
 * Módulo 3: Box Model y Flexbox
   * [Introducción al Box Model](./content/module_03/01/)
   * [Conceptos de display y flujo de documento](./content/module_03/02/)
+  * [Fundamentos de Flexbox y propiedades clave](./content/module_03/03/)
