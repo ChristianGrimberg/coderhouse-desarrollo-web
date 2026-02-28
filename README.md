@@ -20,3 +20,4 @@
     * [Fuente Poppins en Google Fonts](https://fonts.google.com/specimen/Poppins?query=poppins)
 * Módulo 3: Box Model y Flexbox
 * [Introducción al Box Model](./content/module_03/01/)
+* [Conceptos de display y flujo de documento](./content/module_03/02/)
