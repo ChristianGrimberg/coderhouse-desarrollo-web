@@ -28,6 +28,8 @@ El __Box Model__ es un modelo que describe cómo se calculan las dimensiones y e
 
 Cada una de estas áreas afecta cómo se ve y se posiciona el elemento en la página.
 
+[Video del contenido](https://vimeo.com/1140409611/6f8ea95004?fl=pl&fe=cm)
+
 ## ¿Qué es box-sizing y por qué se usa?
 
 Hasta ahora vimos cómo funciona el Box Model tradicional, donde el ancho (`width`) y alto (`height`) __solo consideran el contenido__, el padding y el borde se suman por fuera.
