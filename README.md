@@ -18,3 +18,5 @@
   * [Práctica de Clase 2](./content/module_02/course/)
     * [Modelo en Figma: MTZNEWS DEMO](https://www.figma.com/design/IMqfnELzskVdPQH2rXGLWu/MTZNEWS-DEMO?node-id=0-1&p=f&t=HXD07hkFoeJ4J2dL-0)
     * [Fuente Poppins en Google Fonts](https://fonts.google.com/specimen/Poppins?query=poppins)
+* Módulo 3: Box Model y Flexbox
+* [Introducción al Box Model](./content/module_03/01/)
